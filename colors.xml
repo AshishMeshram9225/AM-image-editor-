@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6200EE</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#3DDC84</color>
+    <color name="bg_dark">#0B1326</color>
+    <color name="surface">#1A2336</color>
+    <color name="black">#000000</color>
+    <color name="surface2">#232D42</color>
+    <color name="icon_background">#FFFFFF</color>
+    
+
+    <!-- Primary -->
+    <color name="primary">#AFC3FF</color>
+    <color name="primary_dark">#6E8BFF</color>
+
+    <!-- Text -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#EAF0FF</color>
+    <color name="text_secondary">#9EA7C6</color>
+
+    <!-- Cards -->
+    <color name="card_bg">#202A3E</color>
+    <color name="card_border">#303B55</color>
+
+    <!-- Icon Background -->
+    <color name="icon_blue">#324A80</color>
+    <color name="icon_purple">#4A3B8F</color>
+    <color name="icon_red">#6A3C53</color>
+
+    <!-- Accent -->
+    <color name="accent">#6EA8FF</color>
+
+    <!-- Bottom Navigation -->
+    <color name="nav_bg">#1C2438</color>
+    <color name="nav_selected">#3B4F84</color>
+    
+    <color name="disabled_text">#6E768C</color>
+    <color name="disabled_icon">#59627A</color>
+</resources>
